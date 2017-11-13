@@ -1,6 +1,6 @@
-# rs-revolution-bar-analyser
+# Rev Share
 
-> Analyser of RuneScape revolution bars
+> Generating and Sharing RuneScape Revolution Bars
 
 ## Build Setup
 
@@ -16,4 +16,3 @@ npm run build
 ```
 
 For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
-"# rev-share" 
